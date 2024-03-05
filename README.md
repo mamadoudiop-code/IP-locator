@@ -16,12 +16,6 @@ Modules Used:
 - pyfiglet
 - requests
 
-## How To Run
-Clone the project using git:
-
-`git clone https://github.com/BazarganDev/python-mini-project.git`
-
-Go to project `IP_Locater`
 
 Install the required modules using pip:
 
